@@ -1,0 +1,17 @@
+{
+    "name": "andre/overview-plugin",
+    "description": "Awsome starter plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Andrew",
+            "email": "andrewebareogbeide@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{"Inc\\":"./inc"}
+    }
+}
